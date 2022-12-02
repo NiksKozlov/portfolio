@@ -1,0 +1,26 @@
+.project {
+    width: 350px;
+    background-color: #b9b9b9;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    text-align: center;
+}
+
+.icon {
+    height: 300px;
+    width: 100%;
+    background-color: #f6f611;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.viewButton {
+    background-color: #9b9b9b;
+}
+
+.description {
+    background-color: #777575;
+    margin: 10px;
+}

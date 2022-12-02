@@ -1,0 +1,15 @@
+.homePageBlock {
+    height: 100vh;
+    background-color: #c7a0ba;
+}
+
+.greetingText {
+    width: 300px;
+    background-color: #4f83af;
+}
+
+.photo {
+    width: 300px;
+    height: 400px;
+    background-color: #4f83af;
+}
